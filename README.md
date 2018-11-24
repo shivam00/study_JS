@@ -1,4 +1,6 @@
-# study_JS# *Curriculum*
+# study_JS
+
+# *Curriculum*
 
 # Introduction
 
