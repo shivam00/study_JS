@@ -1,4 +1,4 @@
-# study_JS
+# Study_JS
 
 # Introduction
 
